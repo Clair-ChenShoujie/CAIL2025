@@ -1,0 +1,7 @@
+{
+  "extends": "pipeline.json",
+  "paths": {
+    "source": "/data/JEC-QA",
+    "model": "/data/Qwen3-8B"
+  }
+}
